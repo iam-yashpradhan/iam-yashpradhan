@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- ⚡ I'm a data scientist<br>- 🌱 I’m currently learning Advanced Statistical Modelling<br>- 👯 I’m looking to collaborate on new Technologies<br>- 😄 I can create an amazing story and also manage the modelling for you!<br>- 💬 Skilled in Python, Javascript, APIs, SQL and NoSQL Databases.<br>- 📫 I'm your AWS and GCP guy.
+⚡ I'm a Data Scientist and a Machine Learning Engineer<br>- 🌱 I’m currently learning Advanced Statistical Modelling<br>- 👯 I’m looking to collaborate on new Technologies<br>- 😄 I can create an amazing story and also manage the modelling for you!<br>- 💬 Skilled in Python, Javascript, APIs, SQL and NoSQL Databases.<br>- 📫 I'm your AWS and GCP guy.
 
 
 ## 🌐 Socials:
